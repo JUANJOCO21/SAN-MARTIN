@@ -32,7 +32,7 @@ SAN MARTIN no solo busca ser una solución de gestión, sino también una plataf
 
 ## Desarrollador
 
-| Frontend     | Backend         |
-|--------------|-----------------|
-|      JUAN JOSE CORDOBA         |
+| Frontend-Backend|
+|-----------------|
+|JUAN JOSE CORDOBA|
 
